@@ -1,0 +1,11 @@
+footer{
+    background-color:  rgba(76, 45, 93, 0.965);
+    text-align: center; 
+    height: 145px;
+}
+.footerBoceto3{
+    height: 130px;
+    text-align: center;
+    padding-bottom: 15px;
+    background-color:   gray;
+}

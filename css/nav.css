@@ -1,0 +1,10 @@
+nav{
+    background-color: rgb(181, 110, 214);
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav > a{
+    padding: 30px;
+}
